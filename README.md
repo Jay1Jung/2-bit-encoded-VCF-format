@@ -19,7 +19,7 @@ Our 2-bit encoded format solves these issues by:
 - Preserving ambiguous bases with a 1-bit mask.  
 - Attaching compact metadata (allele frequency, depth, genotype).  
 
-➡️ This achieves **~87% compression** compared to VCF + FASTA while supporting full genome restoration.
+This achieves **~87% compression** compared to VCF + FASTA while supporting full genome restoration.
 
 ---
 
